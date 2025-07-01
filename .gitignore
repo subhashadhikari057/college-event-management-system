@@ -1,0 +1,21 @@
+# Node modules
+**/node_modules/
+
+# Logs
+*.log
+
+# Build output
+**/dist/
+**/.next/
+
+# Environment variables
+**/.env
+
+# OS/Editor junk
+.DS_Store
+*.swp
+*.swo
+
+# IDE configs
+.vscode/
+.idea/
